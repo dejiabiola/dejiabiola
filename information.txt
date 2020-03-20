@@ -1,0 +1,5 @@
+Full Name : Adedeji Abiola
+Email : adedejiabiola56@gmail.com
+Slack Username : dejiabiola
+Tracks : FrontEnd, BackEnd
+Courses : Go, PHP, C#, Ruby, HTML-CSS-JS
